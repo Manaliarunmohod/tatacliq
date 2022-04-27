@@ -6,14 +6,7 @@ This is a collaborative project. We have worked on this project and submitted it
 Tech Stack used:
 HYML5,CSS3, Javascript
 
-Screenshots
-App Screenshot
 
-App Screenshot
-
-App Screenshot
-
-App Screenshot
 
 Features:
 Log in and Log out Feature
