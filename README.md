@@ -12,9 +12,14 @@ Features:
 Log in and Log out Feature
 user will be able to add the product to cart and delete
 cart count and price will change Dynamically while adding or removing.
-checkout page
+
+
 Areas of Responsibility:
-Built the Landing page.
+
 Built the product Database.
 Built Product page to display all the product.
 Executed add to cart functionality.
+
+Built the Landing page.![tatacliq](https://user-images.githubusercontent.com/96103734/165903802-bf9738c9-7a4e-42d0-8b3e-e9ba3dbbb408.png)
+
+checkout page![tatacliq](https://user-images.githubusercontent.com/96103734/165904058-6f56b06b-bb3d-4a3b-989f-2e9dc41d42bd.png)
